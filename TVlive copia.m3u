@@ -209,11 +209,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd200076374
 
 
 
-#EXTINF:-1 tvg-chno="36" tvg-id="RTL1025TV(Italian).it" tvg-name="RTL 102.5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90085_dark_360w_270h.png" group-title="Radio TV",RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="rtl1025tv" tvg-name="RTL 102.5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90085_dark_360w_270h.png" group-title="Radio TV",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="RDS(Italian).it" tvg-name="RDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124240_dark_360w_270h.png" group-title="Radio TV",RDS
+#EXTINF:-1 tvg-chno="265" tvg-id="rds" tvg-name="RDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124240_dark_360w_270h.png" group-title="Radio TV",RDS
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="(no tvg-id)" tvg-name="Radio KissKiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="Radio TV",Radio KissKiss
+#EXTINF:-1 tvg-chno="158" tvg-id="kisskissitaliatv" tvg-name="Radio KissKiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="Radio TV",Radio KissKiss
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Number One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Radio_Number_One_logo.png" group-title="Radio TV",Radio Number One
+#EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Radio_Number_One_logo.png" group-title="Radio TV",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8

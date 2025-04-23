@@ -52,29 +52,29 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" group-title="MEDIASET",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
+#EXTINF:-1 tvg-id="italia2" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
+#EXTINF:-1 tvg-id="rete4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" group-title="MEDIASET",Canale 5
+#EXTINF:-1 tvg-id="canale5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" group-title="MEDIASET",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=240" group-title="MEDIASET",TOPcrime
+#EXTINF:-1 tvg-id="topcrime" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=240" group-title="MEDIASET",TOPcrime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
+#EXTINF:-1 tvg-id="iris" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La 5 HD" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=240" group-title="MEDIASET",La 5
+#EXTINF:-1 tvg-id="la5hd" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=240" group-title="MEDIASET",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset 27" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=240" group-title="MEDIASET",Mediaset 27
+#EXTINF:-1 tvg-id="mediaset27" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=240" group-title="MEDIASET",Mediaset 27
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=240&theme=dark" group-title="MEDIASET",Cine 34
+#EXTINF:-1 tvg-id="cine34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=240&theme=dark" group-title="MEDIASET",Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=240" group-title="MEDIASET",Med. Extra
+#EXTINF:-1 tvg-id="mediasetextra" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=240" group-title="MEDIASET",Med. Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=240" group-title="MEDIASET",Focus
+#EXTINF:-1 tvg-id="focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=240" group-title="MEDIASET",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=240" group-title="MEDIASET",Boing
+#EXTINF:-1 tvg-id="boing" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=240" group-title="MEDIASET",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 

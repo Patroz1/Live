@@ -48,7 +48,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Tgcom" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
+#EXTINF:-1 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" group-title="MEDIASET",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8

@@ -209,7 +209,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd200076374
 
 
 
-#EXTINF:-1 tvg-chno="36" tvg-id="rtl1025tv" tvg-name="RTL 102.5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90085_dark_360w_270h.png" group-title="Radio TV",RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="rtl102.5tv" tvg-name="RTL 102.5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90085_dark_360w_270h.png" group-title="Radio TV",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-chno="265" tvg-id="rds" tvg-name="RDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124240_dark_360w_270h.png" group-title="Radio TV",RDS
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8

@@ -33,7 +33,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTINF:-1 tvg-id="raiscuola" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="raisport" tvg-chno="58" tvg-logo="http://epg-guide.com/icn/icons/raisport+hd.png" group-title="Rai",Rai Sport + HD
+#EXTINF:-1 tvg-id="raisport" tvg-chno="58" tvg-logo="http://epg-guide.com/icn/icons/raisport.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="rai4k" tvg-chno="101" tvg-logo="http://epg-guide.com/icn/icons/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
@@ -42,11 +42,11 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GF Regia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Regia 1
+#EXTINF:-1 tvg-id="grandefratello1" tvg-name="GF Regia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia1.png" group-title="MEDIASET",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GF Regia 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Regia 2
+#EXTINF:-1 tvg-id="grandefratello2" tvg-name="GF Regia 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia2.png" group-title="MEDIASET",GF Regia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Un'ora fa
+#EXTINF:-1 tvg-id="grandefratelloplus1" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratello.png" group-title="MEDIASET",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8

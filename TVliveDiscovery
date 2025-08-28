@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 
 #EXTINF:-1 tvg-id="nove" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/nove-it.png" group-title="Discovery",NOVE
-https://discovery.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.discoveryplus.com%2Fit%2Fbrowse
+https://europe-fastly-av-mediashield-live-prod.cdn.h264.io/s/eu-central-1/x-discovery-token=Expires=1756452222&KeyName=primary&Signature=aSM9mlEYMu85Q13ZNvoxlP2Jz2c/v1/playlist/hls/293947c2-3dc1-47ac-83a9-3271b4c7d6b5/772eea69-b375-5448-8fcc-4bcd29b7e2a0_10.m3u8?ps=&ctx=KLUv_WMa3e0KWQCFBQADzCJF6PHGENyA74wi9HhjCG7Ad0bLQQc-NEMZIR-VkMQVvqAqviqsKr6DlTFc7fm51ulcTJkWavmKQchrORzYR2zXo-7UUuNuNm7PBOF-csmh7EaHvtMu-mzPLB-vTleuqai5RsydicaGOjK0EK6E-p1rLcqH0j9Vf5bA1ijCWwS8oYYP3DjCGkV4IAUICfw2WaOvCu5DRlAkuoPleoeesXG2zZISuVG_wwrwnnp3MQ==
 #EXTINF:-1 tvg-id="realtime" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/real-time-it.png" group-title="Discovery",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network

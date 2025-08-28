@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 
 #EXTINF:-1 tvg-id="nove" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/nove-it.png" group-title="Discovery",NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+https://www.discoveryplus.com/it/channel/nove?pc=311
 #EXTINF:-1 tvg-id="realtime" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/real-time-it.png" group-title="Discovery",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network

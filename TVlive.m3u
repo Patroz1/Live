@@ -78,26 +78,26 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" group-title="Discovery",Real Time
-https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/289px-Warner_TV_Italy.svg.png" group-title="Discovery",Warner TV
+#EXTINF:-1 tvg-id="nove" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/nove-it.png" group-title="Discovery",NOVE
+https://jmp2.uk/stvp-IT9000060Q
+#EXTINF:-1 tvg-id="realtime" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/real-time-it.png" group-title="Discovery",Real Time
+https://jmp2.uk/stvp-IT900007I0
+#EXTINF:-1 tvg-id="foodnetwork" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
+https://jmp2.uk/stvp-IT90001094
+#EXTINF:-1 tvg-id="warnertv" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
-https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
-https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
-https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="Discovery",HGTV - Home&Garden
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
-https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="giallo" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/giallo-it.png" group-title="Discovery",Giallo
+https://jmp2.uk/stvp-IT9000081B
+#EXTINF:-1 tvg-id="k2" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/k2-it.png" group-title="Discovery",K2
+https://jmp2.uk/stvp-IT900009KL
+#EXTINF:-1 tvg-id="frisbee" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/frisbee-it.png" group-title="Discovery",Frisbee
+https://jmp2.uk/stvp-IT900005HF
+#EXTINF:-1 tvg-id="dmax" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
+https://jmp2.uk/stvp-IT9000113W
+#EXTINF:-1 tvg-id="hgtv" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
+https://jmp2.uk/stvp-IT900003FU
+#EXTINF:-1 tvg-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/motortrend.png" group-title="Discovery",Motor Trend
+https://jmp2.uk/stvp-IT900004Y5
 
 
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8

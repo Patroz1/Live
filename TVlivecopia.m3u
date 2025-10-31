@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 
 #EXTINF:-1 tvg-id="rai1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-1-it.png" group-title="Rai",Rai 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="rai2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-2-it.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1

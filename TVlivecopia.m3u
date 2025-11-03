@@ -44,7 +44,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/raiscuola_2400/chunklist.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1762270394&tk2=b4d8d8159616d50d160b0f13337502c25e5f9a7901966d23eed7c42d1f394fcf
 
-#EXTINF:-1 tvg-id="raistoria" tvg-chno="54" tvg-logo="https://github.com/Patroz1/Loghi/blob/main/rai-scuola-it.png" group-title="Rai",Rai Storia
+#EXTINF:-1 tvg-id="raistoria" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-storia-it.png" group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr19-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1762270723&tk2=5b38ff559e22cf5e004d2909c9798d85bbac6811ec250fd2940f0737709e17d2
 

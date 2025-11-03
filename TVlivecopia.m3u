@@ -3,39 +3,56 @@
 #EXTINF:-1 tvg-id="rai1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-1-it.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr19-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1762267023&tk2=8be05598eb8051ee4efad0d4b98d07390842604085e2301d08b78431963c9d11
+
 #EXTINF:-1 tvg-id="rai2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-2-it.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://streamcdng22-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1762269804&tk2=3326fb4ab3e3974e8510dcb56147728272e78777d570f605e92a524b6b9daec5
+
 #EXTINF:-1 tvg-id="rai3" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-3-it.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdng10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rai3nodvr/hls/rai3nodvr_2400/chunklist.m3u8?baseuri=%2Frai3nodvr%2Fhls%2F&tstart=0&tend=1762269964&tk2=051a58e8da4f7dc7ac084b54549ec74ff5c065402c33c8f9d8fcf6071f4a515e
+
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="rai4" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-4-it.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://streamcdng14-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_2400/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1762270162&tk2=28057072727d179ad8bb6a6133cce5718f38971a3ff2d9821229674203a1cc7f
+
 #EXTINF:-1 tvg-id="rai5" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-5-it.png" group-title="Rai",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://streamcdnr18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1762270263&tk2=53d2417853b2f72c334f77589d9303ce3945790a604cd6212dd038dcefada4c7
+
 #EXTINF:-1 tvg-id="raimovie" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-movie-it.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="raipremium" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-premium-it.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="raigulp" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-gulp-it.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="raiyoyo" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-yoyo-it.png" group-title="Rai",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="rainews24" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-news-24-it.png" group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="raiscuola" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-scuola-it.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+https://streamcdnm7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/raiscuola_2400/chunklist.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1762270394&tk2=b4d8d8159616d50d160b0f13337502c25e5f9a7901966d23eed7c42d1f394fcf
+
+#EXTINF:-1 tvg-id="raistoria" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-storia-it.png" group-title="Rai",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr19-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1762270723&tk2=5b38ff559e22cf5e004d2909c9798d85bbac6811ec250fd2940f0737709e17d2
+
 #EXTINF:-1 tvg-id="raisport" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-sport-it.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="rai4k" tvg-chno="101" tvg-logo="http://epg-guide.com/icn/icons/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8

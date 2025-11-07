@@ -46,7 +46,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 
 #EXTINF:-1 tvg-id="raistoria" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-storia-it.png" group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnr19-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1762270723&tk2=5b38ff559e22cf5e004d2909c9798d85bbac6811ec250fd2940f0737709e17d2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="raisport" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rai-sport-it.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -58,74 +58,116 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 
 
 
+
+
 #EXTINF:-1 tvg-id="grandefratello1" tvg-name="GF Regia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia1.png" group-title="MEDIASET",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="grandefratello2" tvg-name="GF Regia 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia2.png" group-title="MEDIASET",GF Regia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="grandefratelloplus1" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratello.png" group-title="MEDIASET",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/tgcom24-it.png" group-title="MEDIASET",TG COM
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/italia1-it.png" group-title="MEDIASET",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="italia2" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/italia2-it.png" group-title="MEDIASET",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rete4-it.png" group-title="MEDIASET",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="canale5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/canale5-it.png" group-title="MEDIASET",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="topcrime" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/top-crime-it.png" group-title="MEDIASET",TOPcrime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="iris" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/iris-it.png" group-title="MEDIASET",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="la5" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/la5-it.png" group-title="MEDIASET",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="twentyseven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/twenty-seven-it.png" group-title="MEDIASET",Mediaset 27
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="cine34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cine34-it.png" group-title="MEDIASET",Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="mediasetextra" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/mediaset-extra-it.png" group-title="MEDIASET",Med. Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/focus-it.png" group-title="MEDIASET",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="boing" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/boing-it.png" group-title="MEDIASET",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cartoonito-it.png" group-title="MEDIASET",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="nove" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/nove-it.png" group-title="Discovery",NOVE
 https://jmp2.uk/stvp-IT9000060Q
+
 #EXTINF:-1 tvg-id="realtime" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/real-time-it.png" group-title="Discovery",Real Time
 https://jmp2.uk/stvp-IT900007I0
+
 #EXTINF:-1 tvg-id="foodnetwork" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
 https://jmp2.uk/stvp-IT90001094
+
 #EXTINF:-1 tvg-id="warnertv" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+
 #EXTINF:-1 tvg-id="giallo" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/giallo-it.png" group-title="Discovery",Giallo
 https://jmp2.uk/stvp-IT9000081B
+
 #EXTINF:-1 tvg-id="k2" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/k2-it.png" group-title="Discovery",K2
 https://jmp2.uk/stvp-IT900009KL
+
 #EXTINF:-1 tvg-id="frisbee" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/frisbee-it.png" group-title="Discovery",Frisbee
 https://jmp2.uk/stvp-IT900005HF
+
 #EXTINF:-1 tvg-id="dmax" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
 https://jmp2.uk/stvp-IT9000113W
+
 #EXTINF:-1 tvg-id="hgtv" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
 https://jmp2.uk/stvp-IT900003FU
+
 #EXTINF:-1 tvg-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/motortrend.png" group-title="Discovery",Motor Trend
 https://jmp2.uk/stvp-IT900004Y5
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="tv8" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/tv8-it.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
 #EXTINF:-1 tvg-id="cielo" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cielo-it.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
 #EXTINF:-1 tvg-id="skytg24" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/sky-tg24-it.png" group-title="Sky",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 
+
+
+
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/la7-it.png" group-title="Altre Tv",LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+
+
 
 
 
@@ -170,7 +212,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e
 #EXTINF:-1 tvg-id="plutotvfilmcommedia" tvg-name="Pluto Tv Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/featuredImage.jpg" group-title="PLUTO TV",Film Commedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1 tvg-id="plutotvfilmdrama" tvg-name="Pluto Tv Film Drama" tvg-logo="https://images.pluto.tv/channels/608aa42b5c2b8f0007197529/featuredImage.jpg" group-title="PLUTO TV",Film Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
@@ -180,11 +221,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663
 #EXTINF:-1 tvg-id="plutotvfilmthriller" tvg-name="Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/featuredImage.jpg" group-title="PLUTO TV",Film Thriller
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1 tvg-id="PlutoIlBancoDeiPugni.it" tvg-name="Pluto Il Banco dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/featuredImage.jpg" group-title="PLUTO TV",Il Banco dei Pugni
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="PlutoLeSorelleMcLeod.it" tvg-name="Pluto Le sorelle McLeod" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/featuredImage.jpg" group-title="PLUTO TV",Le sorelle McLeod
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="PlutoMutantX.it" tvg-name="Pluto Mutant X" tvg-logo="https://images.pluto.tv/channels/60802c209a26320007c92ad5/featuredImage.jpg" group-title="PLUTO TV",Mutant-X
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
@@ -196,6 +238,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c487
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/featuredImage.jpg" group-title="PLUTO TV",Real Life
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="PlutoScherziRisate.it" tvg-name="Pluto Scherzi e Risate" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/featuredImage.jpg" group-title="PLUTO TV",Scherzi e Risate
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
@@ -225,11 +268,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd200076374
 
 
 
+
+
+
 #EXTINF:-1 tvg-chno="36" tvg-id="rtl102.5tv" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Radio TV",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
 #EXTINF:-1 tvg-chno="265" tvg-id="rds" tvg-name="RDS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rds-it.png" group-title="Radio TV",RDS
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
+
 #EXTINF:-1 tvg-chno="158" tvg-id="kisskissitaliatv" tvg-name="Radio KissKiss" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-kiss-kiss-tv-it.png" group-title="Radio TV",Radio KissKiss
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio105" tvg-name="Radio 105" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio 105
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="r101tv" tvg-name="R101" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",R101
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd

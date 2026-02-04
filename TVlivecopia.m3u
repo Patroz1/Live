@@ -152,7 +152,7 @@ https://jmp2.uk/stvp-IT900004Y5
 
 
 #EXTINF:-1 tvg-id="tv8" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/tv8-it.png" group-title="Sky",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://mytivu.it/Application/Channels/TV8.php
 
 #EXTINF:-1 tvg-id="cielo" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cielo-it.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d

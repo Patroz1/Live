@@ -22,7 +22,7 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/italia1-it.png" group-title="MEDIASET",Italia 1
-#EXTVLCOPT:http-user-agent=IPTVSmartersPro
+#EXTVLCOPT:http-user-agent=http-user-agent=HbbTV/1.7.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXT-X-ENDLIST

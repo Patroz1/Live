@@ -140,7 +140,7 @@ https://jmp2.uk/stvp-IT900005HF
 #EXTINF:-1 tvg-id="dmax" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
 https://jmp2.uk/stvp-IT9000113W
 
-#EXTINF:-1 tvg-id="HGTV.it" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
+#EXTINF:-1 tvg-id="hgtv" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
 https://jmp2.uk/stvp-IT900003FU
 
 #EXTINF:-1 tvg-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo

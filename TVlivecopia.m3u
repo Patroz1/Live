@@ -146,6 +146,9 @@ https://jmp2.uk/stvp-IT900003FU
 #EXTINF:-1 tvg-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/motortrend.png" group-title="Discovery",Motor Trend
 https://jmp2.uk/stvp-IT900004Y5
 
+#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/la7-it.png" group-title="Discovery",LA7
+https://jmp2.uk/stvp-ITBD1500002NL
+
 
 
 
@@ -163,9 +166,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 
 
 
-
-#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/la7-it.png" group-title="Altre Tv",LA7
-https://jmp2.uk/stvp-ITBD1500002NL
 
 
 

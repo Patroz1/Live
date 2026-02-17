@@ -149,6 +149,9 @@ https://jmp2.uk/stvp-IT900004Y5
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/la7-it.png" group-title="Discovery",LA7
 https://jmp2.uk/stvp-ITBD1500002NL
 
+#EXTINF:-1 tvg-id="discoverychannel" tvg-chno="37" tvg-logo="http://davidefulgione.it/loghi/discovery.jpg" group-title="Discovery",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
 
 
 

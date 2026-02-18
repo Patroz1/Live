@@ -295,4 +295,21 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 1 
+https://tivusto.org/sh/raiplay1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 1 (link 2)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-2.png" group-title="Canali RAI",RaiPlay 2 (
+https://tivusto.org/sh/raiplay2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 2 (link 2)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-3.png" group-title="Canali RAI",RaiPlay 3
+https://tivusto.org/sh/raiplay3
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 3 (link 2)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
+
+
+
 #EXT-X-ENDLIST

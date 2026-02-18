@@ -179,13 +179,13 @@ https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="--- PLUTO TV ---" tvg-logo="https://tivustream.website/logoz/Plutotv.png" group-title="PLUTO TV",--- PLUTO TV ---
 http://patbuweb.com/iptv/e2liste/startend.avi
 
-#EXTINF:-1 tvg-id="Pluto16AnniIncinta.it" tvg-name="Pluto 16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/featuredImage.jpg" group-title="PLUTO TV",16 Anni Incinta
+#EXTINF:-1 tvg-id="Pluto16AnniEIncinta.it" tvg-name="Pluto 16 Anni e Incinta" tvg-logo="http://epg-guide.com/icn/icons/pluto16annieincinta.png" group-title="PLUTO TV",16 Anni Incinta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="PlutoAndromeda.it" tvg-name="Pluto Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/featuredImage.jpg" group-title="PLUTO TV",Andromeda
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="plutotvanime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/featuredImage.jpg" group-title="PLUTO TV",Anime
+#EXTINF:-1 tvg-id="plutoTvAnime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/featuredImage.jpg" group-title="PLUTO TV",Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="PlutoCatfish.it" tvg-name="Pluto Catfish TV" tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/featuredImage.jpg" group-title="PLUTO TV",Catfish
@@ -205,6 +205,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860
 
 #EXTINF:-1 tvg-id="plutotvdocumentari" tvg-name="Pluto Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/featuredImage.jpg" group-title="PLUTO TV",Documentari
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="PlutoExOnTheBeach.it" tvg-name="Pluto Ex On The Beach" tvg-logo="https://images.pluto.tv/channels/60940ebad67fd900072382db/featuredImage.jpg" group-title="PLUTO TV",Ex On The Beach
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 

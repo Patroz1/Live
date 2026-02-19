@@ -467,6 +467,9 @@ https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/mani
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
 
+#EXTINF:-1 tvg-id="deejaytv "tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Italy",Deejay TV
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+
 
 
 

@@ -176,10 +176,9 @@ https://jmp2.uk/stvp-IT500011RG
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="--- PLUTO TV ---" tvg-logo="https://tivustream.website/logoz/Plutotv.png" group-title="PLUTO TV",--- PLUTO TV ---
-http://patbuweb.com/iptv/e2liste/startend.avi
 
-#EXTINF:-1 channel-id="60940a07d88ba90007b9cb71" tvg-id="Pluto16AnniEIncinta.it" tvg-chno="510" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" group-title="PlutoTV",16 Anni e Incinta
+
+#EXTINF:-1 channel-id="Pluto16AnniEIncinta.it" tvg-id="Pluto16AnniEIncinta.it" tvg-chno="510" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" group-title="PlutoTV",16 Anni e Incinta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=57f30fa1-f59c-40d9-bf16-00834e234f11&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=00908a50-d2e7-46ac-a04b-6156d0d21cd9&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="64ec5c6644fe100009d114ae" tvg-id="PlutoAffareFatto.it" tvg-chno="405" tvg-name="Affare Fatto" tvg-logo="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png" group-title="PlutoTV",Affare Fatto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=c8516216-62b5-461c-b270-4e298e5dbd3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=8bdc7eff-c3e4-4da7-b00d-0cad389f0b94&userId=&serverSideAds=true

@@ -459,7 +459,7 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="radio105" tvg-name="Radio 105" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
+#EXTINF:-1 tvg-id="radio105tv" tvg-name="Radio 105" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 

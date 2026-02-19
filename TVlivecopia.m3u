@@ -461,7 +461,7 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radio105tv" tvg-name="Radio 105" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest_hr.mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd
 
 #EXTINF:-1 tvg-id="r101tv" tvg-name="R101" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/r101-it.png" group-title="Radio TV",R101
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1

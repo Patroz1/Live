@@ -293,14 +293,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65d7211d0d45610008
 #EXTINF:-1 channel-id="60a2837f8154ab0007c4dcdf" tvg-id="PlutoLeSorelleMcleod.it" tvg-chno="120" tvg-name="Le sorelle McLeod" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png" group-title="PlutoTV",Le sorelle McLeod
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=5896b53f-3433-4c0c-931c-a18c3c0e5644&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=87b00c0a-450d-41d3-96c1-aabe4874b012&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="65cb76723a116800079e1fc3" tvg-id="65cb76723a116800079e1fc3" tvg-chno="180" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png" group-title="PlutoTV",Love Boat
+#EXTINF:-1 channel-id="65cb76723a116800079e1fc3" tvg-id="PlutoLoveBoat.it" tvg-chno="180" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png" group-title="PlutoTV",Love Boat
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb76723a116800079e1fc3/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=f28bb64a-6ce9-450a-b0f9-8642eb891ded&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=765bc167-e2d3-41f7-80c2-8f6041ecb765&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="671655b2daad7f00085d202d" tvg-id="671655b2daad7f00085d202d" tvg-chno="580" tvg-name="MODUS Super PlutoTVs Darts" tvg-logo="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png" group-title="PlutoTV",MODUS Super PlutoTVs Darts
+
+#EXTINF:-1 channel-id="671655b2daad7f00085d202d" tvg-id="PlutoSuperPlutoTvsDarts.it" tvg-chno="580" tvg-name="MODUS Super PlutoTVs Darts" tvg-logo="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png" group-title="PlutoTV",MODUS Super PlutoTVs Darts
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/671655b2daad7f00085d202d/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=8c5b7307-0d85-441a-ba2b-2eb0786f095e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=5fb94d47-55c8-48bd-84de-9cc5a304deaf&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="6349279ed5023700078f2bc2" tvg-id="6349279ed5023700078f2bc2" tvg-chno="130" tvg-name="Mai dire sì" tvg-logo="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png" group-title="PlutoTV",Mai dire sì
+
+#EXTINF:-1 channel-id="6349279ed5023700078f2bc2" tvg-id="PlutoMaiDireSì.it" tvg-chno="130" tvg-name="Mai dire sì" tvg-logo="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png" group-title="PlutoTV",Mai dire sì
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b4ca3015-78b1-4ffe-8248-bbc95b374431&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=666f04c5-f4a0-4a73-8e61-a071b66d5f93&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="686cfe983ffa5e0c91cdb5df" tvg-id="686cfe983ffa5e0c91cdb5df" tvg-chno="729" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/686cfe983ffa5e0c91cdb5df/colorLogoPNG_1765897494203.png" group-title="PlutoTV",Mattel Junior
+
+#EXTINF:-1 channel-id="686cfe983ffa5e0c91cdb5df" tvg-id="PlutoMattelJunior.it" tvg-chno="729" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/686cfe983ffa5e0c91cdb5df/colorLogoPNG_1765897494203.png" group-title="PlutoTV",Mattel Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/686cfe983ffa5e0c91cdb5df/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=089204c1-15a0-4b18-a807-4725bc64506e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=0a85fa01-57b7-4e2d-bc90-dbe0e6da9d3b&userId=&serverSideAds=true
+
 #EXTINF:-1 channel-id="690cb9140d121b44ad925ac9" tvg-id="690cb9140d121b44ad925ac9" tvg-chno="50" tvg-name="Mayday: Disastro Aereo" tvg-logo="https://images.pluto.tv/channels/690cb9140d121b44ad925ac9/colorLogoPNG_1762957819953.png" group-title="PlutoTV",Mayday: Disastro Aereo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/690cb9140d121b44ad925ac9/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=50f5736b-1c29-4d9c-b322-f12cf260d034&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=55421e64-af70-4802-8960-e083ed4cb398&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="65cb77853ba51e00084cba02" tvg-id="65cb77853ba51e00084cba02" tvg-chno="190" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png" group-title="PlutoTV",Mission Impossible
@@ -459,11 +463,11 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="radio105tv" tvg-name="radio105tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
+#EXTINF:-1 tvg-id="radio105tv" channel-id="radio105tv" tvg-name="radio105tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="r101tv" tvg-name="r101tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/r101-it.png" group-title="Radio TV",R101
+#EXTINF:-1 tvg-id="r101tv" channel-id="r101tv" tvg-name="r101tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/r101-it.png" group-title="Radio TV",R101
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 

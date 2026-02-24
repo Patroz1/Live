@@ -140,7 +140,7 @@ https://jmp2.uk/stvp-IT9000113W
 #EXTINF:-1 tvg-id="hgtv" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
 https://jmp2.uk/stvp-IT900003FU
 
-#EXTINF:-1 tvg-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
+#EXTINF:-1 tvg-id="motortrend" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
 https://jmp2.uk/stvp-IT900004Y5
 
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Discovery",LA7

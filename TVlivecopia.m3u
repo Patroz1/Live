@@ -72,16 +72,16 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Tg Com 24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="MEDIASET",TG COM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="MEDIASET",Italia 1
+#EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="MEDIASET",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia2.png" group-title="MEDIASET",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/rete4.png" group-title="MEDIASET",Rete 4
+#EXTINF:-1 tvg-id="Rete 4" tvg-chno="4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/rete4.png" group-title="MEDIASET",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/canale5.png" group-title="MEDIASET",Canale 5
+#EXTINF:-1 tvg-id="Canale 5" tvg-chno="5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/canale5.png" group-title="MEDIASET",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/topcrime.png" group-title="MEDIASET",TOPcrime

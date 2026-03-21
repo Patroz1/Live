@@ -116,37 +116,37 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Discovery",NOVE
+#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Discovery",NOVE
 https://jmp2.uk/stvp-IT9000060Q
 
-#EXTINF:-1 tvg-id="realtime" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Discovery",Real Time
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Discovery",Real Time
 https://jmp2.uk/stvp-IT900007I0
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
 https://jmp2.uk/stvp-IT90001094
 
-#EXTINF:-1 tvg-id="giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
+#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
 https://jmp2.uk/stvp-IT9000081B
 
-#EXTINF:-1 tvg-id="k2" tvg-chno="41" tvg-logo="http://epg-guide.com/icn/icons/k2.png" group-title="Discovery",K2
+#EXTINF:-1 tvg-id="K2" tvg-chno="41" tvg-logo="http://epg-guide.com/icn/icons/k2.png" group-title="Discovery",K2
 https://jmp2.uk/stvp-IT900009KL
 
-#EXTINF:-1 tvg-id="frisbee" tvg-chno="44" tvg-logo="http://epg-guide.com/icn/icons/frisbee.png" group-title="Discovery",Frisbee
+#EXTINF:-1 tvg-id="Frisbee" tvg-chno="44" tvg-logo="http://epg-guide.com/icn/icons/frisbee.png" group-title="Discovery",Frisbee
 https://jmp2.uk/stvp-IT900005HF
 
-#EXTINF:-1 tvg-id="dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Discovery",DMAX
+#EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Discovery",DMAX
 https://jmp2.uk/stvp-IT9000113W
 
-#EXTINF:-1 tvg-id="hgtv" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
+#EXTINF:-1 tvg-id="HGTV HD" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
 https://jmp2.uk/stvp-IT900003FU
 
-#EXTINF:-1 tvg-id="motortrend" tvg-name="DiscoveryTurbo.it" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
+#EXTINF:-1 tvg-id="Motor Trend" tvg-name="DiscoveryTurbo.it" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
 https://jmp2.uk/stvp-IT900004Y5
 
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Discovery",LA7
 https://jmp2.uk/stvp-ITBD1500002NL
 
-#EXTINF:-1 tvg-id="discovery" channel-id="discovery" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Discovery",Discovery
+#EXTINF:-1 tvg-id="Discovery Channel" channel-id="Discovery Channel" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Discovery",Discovery
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
 

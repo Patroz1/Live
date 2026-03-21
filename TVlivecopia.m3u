@@ -154,16 +154,16 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="tv8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Sky",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Sky",Cielo
+#EXTINF:-1 tvg-id="Cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="skytg24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Sky",Sky TG24
+#EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Sky",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="gamberorosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Sky",Gambero Rosso
+#EXTINF:-1 tvg-id="Gambero Rosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Sky",Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
 
 

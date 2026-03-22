@@ -393,39 +393,39 @@ https://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
-#EXTINF:-1 tvg-id="Supercinema San Valentino" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Supercinema San Valentino
+#EXTINF:-1 tvg-id="Supercinema San Valentino" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/mtwc3dxn",Supercinema San Valentino
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD3200001VR
 
-#EXTINF:-1 tvg-id="Western Time" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Western Time
+#EXTINF:-1 tvg-id="Western Time" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/mthz7n7c",Western Time
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c8-lg-it-8917.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Crime Time" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Crime Time
+#EXTINF:-1 tvg-id="Crime Time" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/b8hnwc4z",Crime Time
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c9-lg-it-8920.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Duri A Morire" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Duri a Morire
+#EXTINF:-1 tvg-id="Duri A Morire" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/mz62h7vu",Duri a Morire
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c5-lg-it-8919.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Cine Paura" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/paura.jpg",Cine Paura
+#EXTINF:-1 tvg-id="Cine Paura" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/3p6mz4j4",Cine Paura
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c7-lg-it-8921.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinepaura-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Cine Malizia" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Cine Malizia
+#EXTINF:-1 tvg-id="Cine Malizia" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/bj77e648",Cine Malizia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c6-lg-it-8922.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemalizia-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Cine Thriller" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Cine Thriller
+#EXTINF:-1 tvg-id="Cine Thriller" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/3a9t6sfr",Cine Thriller
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-nexodigital-amg02512c2-lg-it-822.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads._fw_atts=[FW_ATTS]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.prodq=[PRODUCTION_QUALITY]&ads.ic=[IAB_CATEGORY]&ads.network_name=[NETWORK_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Elisa Di Rivombrosa" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Elisa Di Rivombrosa
+#EXTINF:-1 tvg-id="Elisa Di Rivombrosa" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/3nyjm384",Elisa Di Rivombrosa
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg02512-amg02512c4-lg-it-8918.playouts.now.amagi.tv/playlist/amg02512-nexodigital-topserie-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Gli Immortali" group-title="NEXOSTUDIOS" tvg-logo="http://davidefulgione.it/loghi/nexto.jpg",Gli Immortali
+#EXTINF:-1 tvg-id="Gli Immortali" group-title="NEXOSTUDIOS" tvg-logo="https://tinyurl.com/yfhzdjh5",Gli Immortali
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
 

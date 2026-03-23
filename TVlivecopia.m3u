@@ -303,7 +303,7 @@ https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="LA7 srl",LA7
 https://jmp2.uk/stvp-ITBD1500002NL
 
-#EXTINF:-1 tvg-id="la7d" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7d.png" group-title="LA7 srl",LA7d
+#EXTINF:-1 tvg-id="la7d Cinema" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="LA7 Cinema srl",LA7d
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 

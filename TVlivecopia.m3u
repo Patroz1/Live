@@ -34,7 +34,9 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://jmp2.uk/stvp-IT9000060Q
 
 #EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
-https://jmp2.uk/stvp-IT900007I0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Preferiti",Food Network
 https://jmp2.uk/stvp-IT90001094

@@ -70,22 +70,32 @@
 #https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="Nove" tvg-name="Nove" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300004ZO.png", NOVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
 #EXTINF:-1 tvg-id="RealTime" tvg-name="Real Time" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300003N8.png", Real Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66bipz91r60a/REALTIME_IT.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000185.png", DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v3lbifz49r607/DMAX_IT.m3u8
 
 #EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300002XW.png", Giallo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x4pbiyz75r609/GIALLO_IT.m3u8
 
 #EXTINF:-1 tvg-id="MotorTrend" tvg-name="Motor Trend" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300005UQ.png", Motor Trend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66biqz93r60a/MOTORTREND_IT.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000632.png", Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w3pbi1z51r608/FOODNETWORK_IT.m3u8
 
 

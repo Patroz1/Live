@@ -69,38 +69,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 #https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="Nove" tvg-name="Nove" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300004ZO.png", NOVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-
-#EXTINF:-1 tvg-id="RealTime" tvg-name="Real Time" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300003N8.png", Real Time
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66bipz91r60a/REALTIME_IT.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000185.png", DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v3lbifz49r607/DMAX_IT.m3u8
-
-#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300002XW.png", Giallo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x4pbiyz75r609/GIALLO_IT.m3u8
-
-#EXTINF:-1 tvg-id="MotorTrend" tvg-name="Motor Trend" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300005UQ.png", Motor Trend
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66biqz93r60a/MOTORTREND_IT.m3u8
-
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000632.png", Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux; Tizen 5.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/56.0.2924.0 Safari/537.36
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w3pbi1z51r608/FOODNETWORK_IT.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="LA7D" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="Preferiti",LA7 Cinema
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
@@ -294,35 +262,49 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Discovery",NOVE
-https://jmp2.uk/stvp-IT9000060Q
+#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Preferiti",NOVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
-#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Discovery",Real Time
-https://jmp2.uk/stvp-IT900007I0
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
 
-#EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
-https://jmp2.uk/stvp-IT90001094
+#EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Preferiti",Food Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
 
-#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
-https://jmp2.uk/stvp-IT9000081B
+#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Preferiti",Giallo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2iz84wnbtnuey.cloudfront.net/out/v1/8a939414e62c460a9ccab7b699ed1106/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="K2" tvg-chno="41" tvg-logo="http://epg-guide.com/icn/icons/k2.png" group-title="Discovery",K2
-https://jmp2.uk/stvp-IT900009KL
+#https://jmp2.uk/stvp-IT900009KL
 
 #EXTINF:-1 tvg-id="Frisbee" tvg-chno="44" tvg-logo="http://epg-guide.com/icn/icons/frisbee.png" group-title="Discovery",Frisbee
-https://jmp2.uk/stvp-IT900005HF
+#https://jmp2.uk/stvp-IT900005HF
 
-#EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Discovery",DMAX
-https://jmp2.uk/stvp-IT9000113W
+#EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Preferiti",DMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV HD" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
-https://jmp2.uk/stvp-IT900003FU
+#EXTINF:-1 tvg-id="HGTV HD" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Preferiti",HGTV - Home&Garden
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d21emhonubg8zy.cloudfront.net/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="Motor Trend" tvg-name="DiscoveryTurbo.it" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
-https://jmp2.uk/stvp-IT900004Y5
+#https://jmp2.uk/stvp-IT900004Y5
 
-#EXTINF:-1 tvg-id="Discovery Channel" channel-id="Discovery Channel" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Discovery",Discovery Channel
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" channel-id="Discovery Channel" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Preferiti",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
 
 
 

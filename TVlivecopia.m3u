@@ -69,6 +69,28 @@
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 #https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Nove" tvg-name="Nove" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300004ZO.png", NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-id="RealTime" tvg-name="Real Time" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300003N8.png", Real Time
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66bipz91r60a/REALTIME_IT.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000185.png", DMAX
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v3lbifz49r607/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300002XW.png", Giallo
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x4pbiyz75r609/GIALLO_IT.m3u8
+
+#EXTINF:-1 tvg-id="MotorTrend" tvg-name="Motor Trend" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA3300005UQ.png", Motor Trend
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z66biqz93r60a/MOTORTREND_IT.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://images.samsung-tvplus.com/channels/ITBA330000632.png", Food Network
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w3pbi1z51r608/FOODNETWORK_IT.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="LA7D" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="Preferiti",LA7 Cinema
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8

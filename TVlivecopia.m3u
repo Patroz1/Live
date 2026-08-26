@@ -5,43 +5,49 @@
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="http://epg-guide.com/icn/icons/rai1.png" group-title="Preferiti",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="http://epg-guide.com/icn/icons/rai2.png" group-title="Preferiti",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Preferiti",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rete 4" tvg-chno="4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/rete4.png" group-title="Preferiti",Rete 4
-#https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-chno="5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/canale5.png" group-title="Preferiti",Canale 5
-#https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="Preferiti",Italia 1
-#https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Preferiti",LA7
-#https://jmp2.uk/stvp-ITBD1500002NL
+https://jmp2.uk/stvp-ITBD1500002NL
 
 #EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Preferiti",TV8
-#https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Preferiti",NOVE
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Preferiti",NOVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 #https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Preferiti",Real Time
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
 #EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
 #EXT2-X-DRM:https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+#https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

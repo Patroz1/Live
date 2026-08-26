@@ -109,10 +109,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Preferiti",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 group-title="Preferiti" tvg-logo="http://davidefulgione.it/loghi/3b.jpg",3B METEO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#https://jmp2.uk/stvp-IT500008CB
-
 #EXTINF:-1 tvg-chno="36" tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Preferiti",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 

@@ -98,6 +98,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forc
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="Preferiti",Cine 34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai News24" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Preferiti",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -224,7 +225,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Twenty Seven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="MEDIASET",Twenty Seven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="MEDIASET",Cine 34
+#EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="Preferiti",Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/mediasetextra.png" group-title="MEDIASET",Med. Extra

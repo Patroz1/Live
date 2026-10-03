@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://rebrand.ly/epgitalia"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
 
 
@@ -11,7 +11,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Preferiti",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Preferiti",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
@@ -24,10 +24,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="Preferiti",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Preferiti",LA7
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Preferiti",LA7
 https://jmp2.uk/stvp-ITBD1500002NL
 
-#EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Preferiti",TV8
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Preferiti",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Preferiti",NOVE
@@ -39,7 +39,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Preferiti",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Gambero Rosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Preferiti",Gambero Rosso
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Preferiti",Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
 
 #EXTINF:-1 tvg-id="Cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Preferiti",Cielo
@@ -64,53 +64,53 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/focus.png" group-title="Preferiti",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai Scuola" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Preferiti",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Preferiti",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Storia" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Preferiti",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Preferiti",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Preferiti",Giallo
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Preferiti",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/topcrime.png" group-title="Preferiti",TOPcrime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Preferiti",Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Preferiti",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai 5" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Preferiti",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Preferiti",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Movie" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Preferiti",Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Preferiti",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Premium" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Preferiti",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Preferiti",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Twenty Seven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="Preferiti",Twenty Seven
+#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="Preferiti",Twenty Seven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="Preferiti",Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai News24" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Preferiti",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Preferiti",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Tg Com 24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="Preferiti",TG COM 24
+#EXTINF:-1 tvg-id="TGCom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="Preferiti",TG COM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Preferiti",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="36" tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Preferiti",RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Preferiti",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="Deejay TV "tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Preferiti",Deejay TV
@@ -137,47 +137,47 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Rai",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Rai",Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai 5" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Rai",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Rai",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Movie" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Rai",Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Premium" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Rai",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Gulp" tvg-chno="42" tvg-logo="http://epg-guide.com/icn/icons/raigulp.png" group-title="Rai",Rai Gulp
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="http://epg-guide.com/icn/icons/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Yoyo" tvg-chno="43" tvg-logo="http://epg-guide.com/icn/icons/raiyoyo.png" group-title="Rai",Rai Yoyo
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="http://epg-guide.com/icn/icons/raiyoyo.png" group-title="Rai",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai News24" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Rai",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Scuola" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Rai",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Storia" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Rai",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai Sport" tvg-chno="58" tvg-logo="http://epg-guide.com/icn/icons/raisport.png" group-title="Rai",Rai Sport + HD
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="58" tvg-logo="http://epg-guide.com/icn/icons/raisport.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
@@ -198,7 +198,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="grandefratelloplus1" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratello.png" group-title="MEDIASET",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Tg Com 24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="MEDIASET",TG COM 24
+#EXTINF:-1 tvg-id="TGCom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="MEDIASET",TG COM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="MEDIASET",Italia 1
@@ -222,7 +222,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La 5" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/la5.png" group-title="MEDIASET",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Twenty Seven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="MEDIASET",Twenty Seven
+#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="MEDIASET",Twenty Seven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="Preferiti",Cine 34
@@ -265,7 +265,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Discovery",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
 
@@ -275,7 +275,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 
 
 
-#EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Sky",TV8
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Sky",Cielo
@@ -284,7 +284,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Sky",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Gambero Rosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Sky",Gambero Rosso
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Sky",Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
 
 
@@ -292,7 +292,7 @@ https://jmp2.uk/stvp-IT500011RG
 
 
 
-#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="LA7 srl",LA7
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="LA7 srl",LA7
 https://jmp2.uk/stvp-ITBD1500002NL
 
 #EXTINF:-1 tvg-id="LA7D" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="LA7 srl",LA7 Cinema
@@ -426,7 +426,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="36" tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Radio TV",RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Radio TV",RTL 102.5
 https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTINF:-1 tvg-chno="265" channel-id="rdstv" tvg-id="rdstv" tvg-name="RDS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rds-it.png" group-title="Radio TV",RDS
@@ -438,7 +438,7 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="radio105tv" channel-id="Radio105TV.it" tvg-name="radio105tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
+#EXTINF:-1 tvg-id="Radio.105.it" channel-id="Radio105TV.it" tvg-name="radio105tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
